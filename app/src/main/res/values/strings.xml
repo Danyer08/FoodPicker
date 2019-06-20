@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Food Picker</string>
+    <string name="app_name">Food Decider</string>
+    <string name="main_label">Select a food</string>
 </resources>
